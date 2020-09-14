@@ -24,7 +24,9 @@
     "webpack": "^1.14.0"
   },
   "dependencies": {
+    "discord.js": "^11.6.4",
     "github": "^7.1.0",
+    "nedb": "^1.8.0",
     "node-opus": "^0.2.4",
     "opusscript": "0.0.1",
     "typescript": "^2.1.4"
